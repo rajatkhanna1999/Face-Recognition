@@ -24,8 +24,8 @@ $ git clone https://github.com/rajatkhanna1999/Face-Recognition.git
 ```
 
 #### Screenshots
-<img src="https://user-images.githubusercontent.com/31288037/63163695-ce6b6f80-c043-11e9-8308-5e869eed265a.jpeg" width="640" height="367">
-<img src="https://user-images.githubusercontent.com/31288037/63163777-0672b280-c044-11e9-81b3-d66ed8b95e2d.jpeg" width="340" height="567">
+<img src="https://user-images.githubusercontent.com/31288037/63163695-ce6b6f80-c043-11e9-8308-5e869eed265a.jpeg" width="740" height="467">
+<img src="https://user-images.githubusercontent.com/31288037/63163777-0672b280-c044-11e9-81b3-d66ed8b95e2d.jpeg" width="740" height="467">
 
 
 
