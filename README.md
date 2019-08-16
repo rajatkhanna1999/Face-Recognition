@@ -9,7 +9,7 @@ the face . Model used classifer which uses SVM(support vector machine) . Model u
 parameters such as tolerance etc.
 * It is integrated well with hardware like raspberry pie.
 
-## Features
+## Applications
 * We may deploy the system at the entrance of the class/institute/hostel. Every
 authorized member is required to get access through the system.We may also
 choose an audio to announce an un-authorized access and alarm the security
